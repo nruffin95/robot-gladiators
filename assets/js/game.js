@@ -9,3 +9,13 @@ function fight() {
 }
 
 // fight();
+
+
+console.log("This kigs a string, good for leaving yourself a message");
+// this will do math and log 20 
+console.log(10 + 10);
+// what is this 
+console.log("Our robots name is " + playerName)
+
+var name = "Nick"
+console.log(name);
